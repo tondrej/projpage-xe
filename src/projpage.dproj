@@ -101,7 +101,7 @@
 						<VersionInfoKeys Name="FileDescription">https://tondrej.blogspot.com/2018/09/project-page-ide-extension-for-rad.html</VersionInfoKeys>
 						<VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
 						<VersionInfoKeys Name="InternalName">projpage</VersionInfoKeys>
-						<VersionInfoKeys Name="LegalCopyright">© 2019 Ondrej Kelle</VersionInfoKeys>
+						<VersionInfoKeys Name="LegalCopyright">© 2020 Ondrej Kelle</VersionInfoKeys>
 						<VersionInfoKeys Name="LegalTrademarks"/>
 						<VersionInfoKeys Name="OriginalFilename">projpage150.bpl</VersionInfoKeys>
 						<VersionInfoKeys Name="ProductName">Project Page extension for RAD Studio XE</VersionInfoKeys>
